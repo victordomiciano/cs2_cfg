@@ -1,2 +1,0 @@
-﻿-tickrate 128 -noaafonts -high -nod3d9ex -nojoy -threads 4 -novid -refresh 60 -freq 60 +mat_queue_mode -1 +exec autoexec.cfg
-
