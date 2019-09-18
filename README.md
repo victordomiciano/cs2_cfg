@@ -8,4 +8,4 @@
 
 ## CFG path
 
-Steam/userdata/55718046/730/local/cfg
+Steam / userdata / 55718046 / 730 / local / cfg
