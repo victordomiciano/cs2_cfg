@@ -1,11 +1,11 @@
-##Launch Options:
+## Launch Options:
 
 -tickrate 128 -noaafonts -high -nod3d9ex -nojoy -novid +exec autoexec.cfg
 
-##Steam ID
+## Steam ID
 
 55718046
 
-##CFG path
+## CFG path
 
 Steam/userdata/55718046/730/local/cfg
