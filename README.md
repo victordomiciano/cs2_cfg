@@ -4,14 +4,14 @@
 +exec autoexec.cfg -console -freq 144 -tickrate 128 -noaafonts -high -nod3d9ex -nojoy -novid
 ```
 
-## Steam ID
+## 730 path
 
 ```
-55718046
+Steam / userdata / 55718046 / 730
 ```
 
-## CFG path
+## cfg path
 
 ```
-Steam / userdata / 55718046 / 730 / local / cfg
+Steam / steamapps / common / Counter-Strike Global Offensive / game / csgo / cfg
 ```
